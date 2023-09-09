@@ -2,7 +2,7 @@
 
 ## Instruções
 
-Não tenha miséria em criar branches, na vdd crie um pra cada ajuste grande que for fazer. Crie no seu fork partir do branch da versão-alvo do ajuste e quando acabar abra uma pull request para o branchd e versão do repositório central.
+Não tenha miséria em criar branches, na vdd crie um pra cada ajuste grande que for fazer. Crie no seu fork a partir do branch da versão-alvo do ajuste e quando acabar abra uma pull request para o branch de versão do repositório central.
 
 O planejamento de código está na pasta Docs do repositório, consulte ele se estiver perdido de oq faz oq ou tem q fazer oq. 
 
