@@ -5,8 +5,8 @@ herança: CarachterBody2D
 
 ## Propriedades
 - public int Speed {get;set;}
-- public List<List<Vector2>> paths
-- public List<Vector2> currentPath
+- public List\<List\<Vector2\>\> paths
+- public List\<Vector2\> currentPath
 - public bool Cycle{get;set}
 - private int step = 0;
 
