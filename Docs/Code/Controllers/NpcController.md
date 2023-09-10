@@ -1,7 +1,7 @@
 # public partial class NpcController
-namespace: Sanca.Controllers
-using: Godot
-herança: CarachterBody2D
+namespace: Sanca.Controllers  
+using: Godot  
+herança: CarachterBody2D  
 
 ## Propriedades
 - public int Speed {get;set;}
@@ -12,6 +12,6 @@ herança: CarachterBody2D
 
 ## Métodos
 ### public override void _PhysicsProcess(double delta)
-Se move em direção ao step do currentPath usando Position.DirectionTo.
-Ao chegar lá, vai para o stop seguinte.
+Se move em direção ao step do currentPath usando Position.DirectionTo.  
+Ao chegar lá, vai para o stop seguinte.  
 Se for o setop final, checa se o movimento é cíclico com o Cyle. Se for, retorna. Se não for, currentPath passa a nulo. 

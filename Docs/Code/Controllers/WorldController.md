@@ -1,7 +1,7 @@
 # public partial class InteractableController
-namespace: Sanca.Controllers
-using: Godot
-herança: Node
+namespace: Sanca.Controllers  
+using: Godot  
+herança: Node  
 
 ## Propriedades
 - private List<PopupMenu> openMenus;
