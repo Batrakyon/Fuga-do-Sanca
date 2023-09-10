@@ -1,7 +1,7 @@
 # public partial class InteractableController
-namespace: Sanca.Controllers
-using: Godot
-herança: Sprite2D
+namespace: Sanca.Controllers  
+using: Godot  
+herança: Sprite2D  
 
 ## Propriedades
 - public WorldController worldController;
