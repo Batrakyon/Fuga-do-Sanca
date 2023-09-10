@@ -1,4 +1,4 @@
-# public partial class PlayerController
+# public partial class NpcController
 namespace: Sanca.Controllers
 using: Godot
 herança: CarachterBody2D
