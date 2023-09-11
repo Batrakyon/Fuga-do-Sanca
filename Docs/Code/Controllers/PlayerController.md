@@ -4,7 +4,7 @@ using: Godot
 herança: CarachterBody2D  
 
 ## Propriedades
-- public int Speed {get;set;}
+- public int Speed {get;set;} (Export)
 
 ## Métodos
 ### public void GetMovement()
