@@ -1,4 +1,4 @@
-# public partial class InteractableController
+# public partial class WorldController
 namespace: Sanca.Controllers  
 using: Godot  
 herança: Node  
